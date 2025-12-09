@@ -32,7 +32,7 @@ Perfect for winter-themed worlds, survival challenges, or simply adding a frosty
 
 ## **📄 License**
 
-Released under the **MIT License** (or your preferred license).
+Released under the **MIT License**.
 
 
 ## **💬 Feedback**
