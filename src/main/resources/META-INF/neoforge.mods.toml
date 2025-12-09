@@ -1,0 +1,29 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "eternalchristmas"
+version = "1.0.0"
+displayName = "Eternal Christmas"
+authors = "NullOnRise"
+description = '''
+Makes the world eternally snowy & winter themed.
+'''
+
+#[[mixins]]
+#config = "eternalchristmas.mixins.json"
+
+[[dependencies.eternalchristmas]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.eternalchristmas]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"
